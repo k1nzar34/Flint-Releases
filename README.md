@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/k1nzar34/flint-releases/releases/latest"><b>⬇ Скачать Flint для Windows</b></a>
+  <a href="https://github.com/k1nzar34/flint-releases/releases/latest/download/Flint.exe"><b>⬇ Скачать Flint для Windows</b></a><br>
+  <sub><a href="https://github.com/k1nzar34/flint-releases/releases">Что нового в версиях</a></sub>
 </p>
 
 ---
@@ -51,7 +52,7 @@
 
 ## Как установить
 
-1. Скачай `Flint.exe` со [страницы последнего релиза](https://github.com/k1nzar34/flint-releases/releases/latest). Устанавливать ничего не нужно — это один файл, его можно положить в любую папку.
+1. Скачай [`Flint.exe`](https://github.com/k1nzar34/flint-releases/releases/latest/download/Flint.exe) — загрузка начнётся сразу. Список версий и что в них нового — на [странице релизов](https://github.com/k1nzar34/flint-releases/releases). Устанавливать ничего не нужно — это один файл, его можно положить в любую папку.
 2. Запусти. Windows может показать окно «Система Windows защитила ваш компьютер» — так бывает с программами без платной цифровой подписи. Нажми «Подробнее» → «Выполнить в любом случае».
 3. Для работы нужен WebView2 — на Windows 10 и 11 он почти всегда уже есть.
 
